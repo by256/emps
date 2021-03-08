@@ -3,6 +3,8 @@ Electron Microscopy Particle Segmentation (EMPS) Dataset
 
 # <img src="./headerimage.png">
 
+The EMPS dataset is a collection of 465 electron microscopy images and their corresponding pixel-level semantic instance segmentations.
+
 ## Citing
 
 If you use **emps** in your work, please cite the following work:
